@@ -47,6 +47,40 @@
   ],
   "orders": [
     {
+      "id": 1770568462362,
+      "user": "ahmedumerahmedumer52@gmail.com",
+      "items": [
+        {
+          "id": 1770568351400,
+          "name": "Head & Beard Shampoo",
+          "category": "HAIRCARE",
+          "price": 5000,
+          "discountPrice": 4500,
+          "taxRate": 0.05,
+          "cod": 250,
+          "stock": 100,
+          "description": "2nd edition Of Head & Beard",
+          "image": "images/img_1770568349377_WhatsApp_Image_2026-02-08_at_8.29.07_PM.jpeg",
+          "video": null,
+          "qty": 1
+        }
+      ],
+      "total": "Rs. 4,975",
+      "subtotal": "Rs. 4,500",
+      "tax": "Rs. 225",
+      "codCharge": "Rs. 250",
+      "date": "2026-02-08T16:34:22.362Z",
+      "status": "PENDING",
+      "payment": "COD",
+      "shipping": {
+        "address": "1",
+        "city": "1",
+        "zip": "1",
+        "phone": "1",
+        "whatsapp": "1"
+      }
+    },
+    {
       "id": 1770567300324,
       "user": "ahmedumerahmedumer52@gmail.com",
       "items": [
