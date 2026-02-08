@@ -1,5 +1,17 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 1770563889210,
+      "name": "Test Product",
+      "category": "HAIRCARE",
+      "price": 10000,
+      "discountPrice": 2000,
+      "taxRate": 0.05,
+      "description": "Best Product",
+      "image": "images/img_1770563887433_white_logo.png",
+      "video": null
+    }
+  ],
   "users": [
     {
       "id": 1770561393537,
