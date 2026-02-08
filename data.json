@@ -34,6 +34,38 @@
   ],
   "orders": [
     {
+      "id": 1770567300324,
+      "user": "ahmedumerahmedumer52@gmail.com",
+      "items": [
+        {
+          "id": 1770564673715,
+          "name": "Head & Beared",
+          "category": "HAIRCARE",
+          "price": 4000,
+          "discountPrice": 3500,
+          "taxRate": 0.05,
+          "description": "Silky and Shiny Long hairs",
+          "image": "images/img_1770564671831_WhatsApp_Image_2026-02-08_at_8.29.07_PM.jpeg",
+          "video": null,
+          "qty": 3
+        }
+      ],
+      "total": "Rs. 11,025",
+      "subtotal": "Rs. 10,500",
+      "tax": "Rs. 525",
+      "codCharge": "Rs. 0",
+      "date": "2026-02-08T16:15:00.324Z",
+      "status": "PENDING",
+      "payment": "COD",
+      "shipping": {
+        "address": "test",
+        "city": "chk",
+        "zip": "10000",
+        "phone": "100000000000",
+        "whatsapp": "200000000000"
+      }
+    },
+    {
       "id": 1770563964295,
       "user": "ahmedumerahmedumer52@gmail.com",
       "items": [
