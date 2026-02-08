@@ -55,5 +55,17 @@
       "status": "CONFIRMED"
     }
   ],
-  "messages": []
+  "messages": [],
+  "reviews": [
+    {
+      "id": 1770567198938,
+      "productId": 1770564673715,
+      "userEmail": "ahmedumerahmedumer52@gmail.com",
+      "userName": "Ahmed Omar",
+      "rating": 5,
+      "comment": "Best shampoos",
+      "image": null,
+      "date": "2026-02-08T16:13:18.938Z"
+    }
+  ]
 }
