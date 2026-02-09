@@ -1,19 +1,6 @@
 {
   "products": [
     {
-      "id": 1770568351400,
-      "name": "Head & Beard Shampoo",
-      "category": "HAIRCARE",
-      "price": 5000,
-      "discountPrice": 4500,
-      "taxRate": 0.05,
-      "cod": 250,
-      "stock": 100,
-      "description": "2nd edition Of Head & Beard",
-      "image": "images/img_1770568349377_WhatsApp_Image_2026-02-08_at_8.29.07_PM.jpeg",
-      "video": null
-    },
-    {
       "id": 1770564673715,
       "name": "Head & Beared",
       "category": "HAIRCARE",
