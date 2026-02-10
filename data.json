@@ -111,7 +111,7 @@
       "codCharge": "Rs. 0",
       "delivery": "Rs. 200",
       "date": "2026-02-10T15:21:43.761Z",
-      "status": "PENDING",
+      "status": "DELIVERED",
       "payment": "JAZZCASH",
       "proof": "proofs/order_1770736899858_Screenshot_2025-11-30_071400.png",
       "shipping": {
