@@ -16,17 +16,6 @@
       "description": "best product ever use in daily",
       "image": "images/img_1770706309156_download.jpg",
       "video": null
-    },
-    {
-      "id": 1770564673715,
-      "name": "Head & Beared",
-      "category": "HAIRCARE",
-      "price": 4000,
-      "discountPrice": 3500,
-      "taxRate": 0.05,
-      "description": "Silky and Shiny Long hairs",
-      "image": "images/img_1770564671831_WhatsApp_Image_2026-02-08_at_8.29.07_PM.jpeg",
-      "video": null
     }
   ],
   "users": [
