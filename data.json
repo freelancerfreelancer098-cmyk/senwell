@@ -70,6 +70,14 @@
       "email": "freelancerfreelancer098@gmail.com",
       "pass": "aaAA11@@",
       "joined": "2026-02-10T02:03:22.431Z"
+    },
+    {
+      "id": 1770734803733,
+      "name": "Ahmed Omar",
+      "email": "senwellbuisness@gmail.com",
+      "pass": "aaAA11@@",
+      "joined": "2026-02-10T14:46:43.733Z",
+      "verified": true
     }
   ],
   "orders": [
