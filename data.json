@@ -6,13 +6,13 @@
       "category": "TREATMENT",
       "price": 600,
       "discountPrice": 400,
-      "taxRate": 0.09,
+      "taxRate": 0.02,
       "taxType": "custom",
       "cod": 100,
       "codType": "custom",
       "delivery": 200,
       "deliveryType": "custom",
-      "stock": 100,
+      "stock": 99,
       "description": "best product ever use in daily",
       "image": "images/img_1770706309156_download.jpg",
       "video": null
@@ -56,6 +56,46 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770707289713,
+      "user": "saadmirzastudio@gmail.com",
+      "items": [
+        {
+          "id": 1770706310618,
+          "name": "Life Boy",
+          "category": "TREATMENT",
+          "price": 600,
+          "discountPrice": 400,
+          "taxRate": 0.02,
+          "taxType": "custom",
+          "cod": 100,
+          "codType": "custom",
+          "delivery": 200,
+          "deliveryType": "custom",
+          "stock": 100,
+          "description": "best product ever use in daily",
+          "image": "images/img_1770706309156_download.jpg",
+          "video": null,
+          "qty": 1
+        }
+      ],
+      "total": "Rs. 708",
+      "subtotal": "Rs. 400",
+      "tax": "Rs. 8",
+      "codCharge": "Rs. 100",
+      "delivery": "Rs. 200",
+      "date": "2026-02-10T07:08:09.713Z",
+      "status": "PENDING",
+      "payment": "COD",
+      "proof": null,
+      "shipping": {
+        "address": "Lahore Road Prime Valley",
+        "city": "Sargodgha",
+        "zip": "04021",
+        "phone": "03086009321",
+        "whatsapp": "03086009321"
+      }
+    },
     {
       "id": 1770568462362,
       "user": "ahmedumerahmedumer52@gmail.com",
