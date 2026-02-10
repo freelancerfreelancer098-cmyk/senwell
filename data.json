@@ -6,7 +6,7 @@
       "category": "TREATMENT",
       "price": 600,
       "discountPrice": 400,
-      "taxRate": 0.01,
+      "taxRate": 10,
       "taxType": "custom",
       "cod": 100,
       "codType": "custom",
