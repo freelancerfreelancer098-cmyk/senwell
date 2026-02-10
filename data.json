@@ -29,7 +29,7 @@
       "codType": "custom",
       "delivery": 200,
       "deliveryType": "custom",
-      "stock": 97,
+      "stock": 96,
       "description": "best product ever use in daily",
       "image": "images/img_1770706309156_download.jpg",
       "video": null
@@ -81,6 +81,48 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770736903761,
+      "user": "senwellbuisness@gmail.com",
+      "userName": "1",
+      "items": [
+        {
+          "id": 1770706310618,
+          "name": "Life Boy",
+          "category": "TREATMENT",
+          "price": 600,
+          "discountPrice": 400,
+          "taxRate": 0.02,
+          "taxType": "custom",
+          "cod": 100,
+          "codType": "custom",
+          "delivery": 200,
+          "deliveryType": "custom",
+          "stock": 97,
+          "description": "best product ever use in daily",
+          "image": "images/img_1770706309156_download.jpg",
+          "video": null,
+          "qty": 1
+        }
+      ],
+      "total": "Rs. 600",
+      "subtotal": "Rs. 400",
+      "tax": "Rs. 0",
+      "codCharge": "Rs. 0",
+      "delivery": "Rs. 200",
+      "date": "2026-02-10T15:21:43.761Z",
+      "status": "PENDING",
+      "payment": "JAZZCASH",
+      "proof": "proofs/order_1770736899858_Screenshot_2025-11-30_071400.png",
+      "shipping": {
+        "name": "1",
+        "address": "1",
+        "city": "1",
+        "zip": "0",
+        "phone": "1",
+        "whatsapp": "1"
+      }
+    },
     {
       "id": 1770736768403,
       "user": "senwellbuisness@gmail.com",
