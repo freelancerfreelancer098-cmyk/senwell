@@ -1,6 +1,23 @@
 {
   "products": [
     {
+      "id": 1770711523834,
+      "name": "Head & Shoulder",
+      "category": "HAIRCARE",
+      "price": 1200,
+      "discountPrice": 1000,
+      "taxRate": 0,
+      "taxType": "none",
+      "cod": 0,
+      "codType": "free",
+      "delivery": 0,
+      "deliveryType": "free",
+      "stock": 100,
+      "description": "natural hair care products 2026",
+      "image": "images/img_1770711521893_81Lq-9fvhLL._SL1000_.jpg",
+      "video": null
+    },
+    {
       "id": 1770706310618,
       "name": "Life Boy",
       "category": "TREATMENT",
