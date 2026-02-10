@@ -12,7 +12,7 @@
       "codType": "free",
       "delivery": 0,
       "deliveryType": "free",
-      "stock": 98,
+      "stock": 97,
       "description": "natural hair care products 2026",
       "image": "images/img_1770711521893_81Lq-9fvhLL._SL1000_.jpg",
       "video": null
@@ -81,6 +81,48 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770736768403,
+      "user": "senwellbuisness@gmail.com",
+      "userName": "A",
+      "items": [
+        {
+          "id": 1770711523834,
+          "name": "Head & Shoulder",
+          "category": "HAIRCARE",
+          "price": 1200,
+          "discountPrice": 1000,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 0,
+          "deliveryType": "free",
+          "stock": 98,
+          "description": "natural hair care products 2026",
+          "image": "images/img_1770711521893_81Lq-9fvhLL._SL1000_.jpg",
+          "video": null,
+          "qty": 1
+        }
+      ],
+      "total": "Rs. 1,000",
+      "subtotal": "Rs. 1,000",
+      "tax": "Rs. 0",
+      "codCharge": "Rs. 0",
+      "delivery": "Rs. 0",
+      "date": "2026-02-10T15:19:28.403Z",
+      "status": "PENDING",
+      "payment": "COD",
+      "proof": null,
+      "shipping": {
+        "name": "A",
+        "address": "A",
+        "city": "A",
+        "zip": "1",
+        "phone": "1",
+        "whatsapp": "1"
+      }
+    },
     {
       "id": 1770736276406,
       "user": "senwellbuisness@gmail.com",
