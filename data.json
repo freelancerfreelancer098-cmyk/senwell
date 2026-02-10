@@ -5,7 +5,7 @@
       "name": "Life Boy",
       "category": "TREATMENT",
       "price": 600,
-      "discountPrice": 10,
+      "discountPrice": 400,
       "taxRate": 0.01,
       "taxType": "custom",
       "cod": 100,
