@@ -74,7 +74,7 @@
       "tax": "Rs. 225",
       "codCharge": "Rs. 250",
       "date": "2026-02-08T16:34:22.362Z",
-      "status": "DELIVERED",
+      "status": "CONFIRMED",
       "payment": "COD",
       "shipping": {
         "address": "1",
