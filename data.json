@@ -152,7 +152,7 @@
       "tax": "Rs. 525",
       "codCharge": "Rs. 0",
       "date": "2026-02-08T16:15:00.324Z",
-      "status": "PENDING",
+      "status": "CONFIRMED",
       "payment": "COD",
       "shipping": {
         "address": "test",
