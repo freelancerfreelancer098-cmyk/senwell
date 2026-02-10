@@ -535,5 +535,6 @@
       "date": "2026-02-08T16:13:18.938Z"
     }
   ],
-  "revenue": 708
+  "revenue": 708,
+  "revenue_base": 0
 }
