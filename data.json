@@ -12,7 +12,7 @@
       "codType": "free",
       "delivery": 0,
       "deliveryType": "free",
-      "stock": 100,
+      "stock": 99,
       "description": "natural hair care products 2026",
       "image": "images/img_1770711521893_81Lq-9fvhLL._SL1000_.jpg",
       "video": null
@@ -73,6 +73,46 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770714394779,
+      "user": "saadmirzastudio@gmail.com",
+      "items": [
+        {
+          "id": 1770711523834,
+          "name": "Head & Shoulder",
+          "category": "HAIRCARE",
+          "price": 1200,
+          "discountPrice": 1000,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 0,
+          "deliveryType": "free",
+          "stock": 100,
+          "description": "natural hair care products 2026",
+          "image": "images/img_1770711521893_81Lq-9fvhLL._SL1000_.jpg",
+          "video": null,
+          "qty": 1
+        }
+      ],
+      "total": "Rs. 1,000",
+      "subtotal": "Rs. 1,000",
+      "tax": "Rs. 0",
+      "codCharge": "Rs. 0",
+      "delivery": "Rs. 0",
+      "date": "2026-02-10T09:06:34.779Z",
+      "status": "PENDING",
+      "payment": "COD",
+      "proof": null,
+      "shipping": {
+        "address": "Lahore Road Prime valley",
+        "city": "Sargodha",
+        "zip": "04021",
+        "phone": "03086009321",
+        "whatsapp": "03086009321"
+      }
+    },
     {
       "id": 1770710731044,
       "user": "saadmirzastudio@gmail.com",
