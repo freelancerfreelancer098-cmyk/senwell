@@ -1,6 +1,23 @@
 {
   "products": [
     {
+      "id": 1770706310618,
+      "name": "Life Boy",
+      "category": "TREATMENT",
+      "price": 600,
+      "discountPrice": 10,
+      "taxRate": 0.01,
+      "taxType": "custom",
+      "cod": 100,
+      "codType": "custom",
+      "delivery": 200,
+      "deliveryType": "custom",
+      "stock": 100,
+      "description": "best product ever use in daily",
+      "image": "images/img_1770706309156_download.jpg",
+      "video": null
+    },
+    {
       "id": 1770564673715,
       "name": "Head & Beared",
       "category": "HAIRCARE",
