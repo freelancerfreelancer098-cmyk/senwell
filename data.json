@@ -1,6 +1,23 @@
 {
   "products": [
     {
+      "id": 1770741535014,
+      "name": "Hello Hair",
+      "category": "TREATMENT",
+      "price": 800,
+      "discountPrice": 600,
+      "taxRate": 100,
+      "taxType": "custom",
+      "cod": 100,
+      "codType": "custom",
+      "delivery": 200,
+      "deliveryType": "custom",
+      "stock": 100,
+      "description": "Very good product for hair ",
+      "image": "images/img_1770741531013_1000028187.jpg",
+      "video": null
+    },
+    {
       "id": 1770711523834,
       "name": "Head & Shoulder",
       "category": "HAIRCARE",
