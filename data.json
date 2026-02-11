@@ -171,7 +171,7 @@
       "codCharge": "Rs. 0",
       "delivery": "Rs. 200",
       "date": "2026-02-10T15:21:43.761Z",
-      "status": "DELIVERED",
+      "status": "CANCELLED",
       "payment": "JAZZCASH",
       "proof": "proofs/order_1770736899858_Screenshot_2025-11-30_071400.png",
       "shipping": {
@@ -578,7 +578,7 @@
       "userEmail": "saadnarratives@gmail.com",
       "userName": "Narratives",
       "rating": 5,
-      "comment": "Very good products Ã°ÂÂÂÃ°ÂÂÂ»",
+      "comment": "Very good products ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ»",
       "image": null,
       "date": "2026-02-10T17:31:12.831Z"
     },
