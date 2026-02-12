@@ -12,7 +12,7 @@
       "codType": "custom",
       "delivery": 200,
       "deliveryType": "custom",
-      "stock": 99,
+      "stock": 97,
       "description": "Best products for men and women natural results use daily ",
       "image": "images/img_1770875673420_1000028566.jpg",
       "images": [
@@ -110,6 +110,53 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770876335356,
+      "user": "saadmirzanews@gmail.com",
+      "userName": "Saad Bhai",
+      "items": [
+        {
+          "id": 1770875676110,
+          "name": "Sevua",
+          "category": "HAIRCARE",
+          "price": 1500,
+          "discountPrice": 999,
+          "taxRate": 100,
+          "taxType": "custom",
+          "cod": 100,
+          "codType": "custom",
+          "delivery": 200,
+          "deliveryType": "custom",
+          "stock": 99,
+          "description": "Best products for men and women natural results use daily ",
+          "image": "images/img_1770875673420_1000028566.jpg",
+          "images": [
+            "images/sec_1770875674830_0_1000028567.jpg",
+            "images/sec_1770876216284_0_1000028568.jpg"
+          ],
+          "video": null,
+          "qty": 2
+        }
+      ],
+      "total": "Rs. 2,798",
+      "totalValue": 2798,
+      "subtotal": "Rs. 1,998",
+      "tax": "Rs. 200",
+      "codCharge": "Rs. 200",
+      "delivery": "Rs. 400",
+      "date": "2026-02-12T06:05:35.356Z",
+      "status": "PENDING",
+      "payment": "COD",
+      "proof": null,
+      "shipping": {
+        "name": "Saad Bhai",
+        "address": "Lahore Road Prime valley",
+        "city": "Sargodha",
+        "zip": "04021",
+        "phone": "03086009321",
+        "whatsapp": "03086009321"
+      }
+    },
     {
       "id": 1770876008324,
       "user": "saadmirzanews@gmail.com",
