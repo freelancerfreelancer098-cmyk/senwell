@@ -145,7 +145,7 @@
       "codCharge": "Rs. 200",
       "delivery": "Rs. 400",
       "date": "2026-02-12T06:05:35.356Z",
-      "status": "PENDING",
+      "status": "DELIVERED",
       "payment": "COD",
       "proof": null,
       "shipping": {
